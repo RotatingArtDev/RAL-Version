@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "channel": "stable",
+  "latest": {
+    "version": "1.9.1",
+    "releaseName": "RotatingartLauncher v1.9.1",
+    "publishedAt": "2026-02-24T12:00:00Z",
+    "description": "Modernized update channel with external version config support. Includes announcement popup improvements and safer dialog coordination.",
+    "changelog": [
+      "Support external version.json as primary update source",
+      "Support both GitHub and cloud-drive download links",
+      "Improve in-app update dialog with source-specific actions",
+      "Harden popup priority to avoid announcement/update conflicts"
+    ],
+    "downloads": {
+      "github": "https://github.com/RotatingArtDev/RotatingartLauncher/releases/download/v1.9.1/RotatingartLauncher-1.9.1.apk",
+      "cloud": "https://pan.baidu.com/s/replace_with_real_link"
+    },
+    "releasePage": "https://github.com/RotatingArtDev/RotatingartLauncher/releases/tag/v1.9.1"
+  }
+}
