@@ -2,20 +2,20 @@
   "schemaVersion": 1,
   "channel": "stable",
   "latest": {
-    "version": "2.0",
-    "releaseName": "RotatingartLauncher v2.0",
-    "publishedAt": "2026-02-24T12:00:00Z",
-    "description": "Modernized update channel with external version config support. Includes announcement popup improvements and safer dialog coordination.",
+    "version": "2.0.1",
+    "releaseName": "RotatingartLauncher v2.0.1",
+    "publishedAt": "2026-02-27T09:03:13Z",
+    "description": "Minor update",
     "changelog": [
-      "Support external version.json as primary update source",
-      "Support both GitHub and cloud-drive download links",
-      "Improve in-app update dialog with source-specific actions",
-      "Harden popup priority to avoid announcement/update conflicts"
+      "Version 2.0.1 focuses on compatibility fixes, stronger diagnostics, and build/release workflow improvements.",
+      "We addressed CoreCLR initialization failures on some devices (especially certain Xiaomi models) and improved crash log export.",
+      "Graphics-related dependencies (FNA3D and MobileGlues) were updated, with better performance observability added.",
+      "For more detail, check announcement"
     ],
     "downloads": {
-      "github": "https://github.com/RotatingArtDev/RotatingartLauncher/releases/download/v2.0/RotatingartLauncher-2.0.apk",
-      "cloud": "https://pan.baidu.com/s/replace_with_real_link"
+      "github": "https://github.com/FireworkSky/RotatingartLauncher/releases/download/v2.0.1/RotatingArtLauncher.2.0.1.apk",
+      "cloud": "https://laosparrow.lanzouw.com/b0kon7kch"
     },
-    "releasePage": "https://github.com/RotatingArtDev/RotatingartLauncher/releases/tag/v2.0"
+    "releasePage": "https://github.com/FireworkSky/RotatingartLauncher/releases/tag/v2.0.1"
   }
 }
