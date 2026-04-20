@@ -8,7 +8,7 @@
     "description": "Update",
     "changelog": [
       "Version 2.1.0 mainly focuses on adapting to the new `tModLoader` release, improving runtime compatibility, and continuing to refine the control editor and interaction experience.",
-      "The dotnet runtime has been upgraded to `v1.0.4`, fixing a range of issues related to input, night mode, texture editing, and page rendering.",
+      "The dotnet runtime has been upgraded to `v10.0.4`, fixing a range of issues related to input, night mode, texture editing, and page rendering.",
       "Graphics and memory handling were further improved: this release attempts to ease the 4 GB memory limit on some systems and improves FNA3D rendering performance in extreme scenarios.",
       "For more detail, check announcement"
     ],
