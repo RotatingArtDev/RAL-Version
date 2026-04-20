@@ -2,20 +2,20 @@
   "schemaVersion": 1,
   "channel": "stable",
   "latest": {
-    "version": "2.0.1",
-    "releaseName": "RotatingartLauncher v2.0.1",
-    "publishedAt": "2026-02-27T09:03:13Z",
-    "description": "Minor update",
+    "version": "2.1.0",
+    "releaseName": "RotatingArtLauncher v2.1.0",
+    "publishedAt": "2026-04-20T14:57:58Z",
+    "description": "Update",
     "changelog": [
-      "Version 2.0.1 focuses on compatibility fixes, stronger diagnostics, and build/release workflow improvements.",
-      "We addressed CoreCLR initialization failures on some devices (especially certain Xiaomi models) and improved crash log export.",
-      "Graphics-related dependencies (FNA3D and MobileGlues) were updated, with better performance observability added.",
+      "Version 2.1.0 mainly focuses on adapting to the new `tModLoader` release, improving runtime compatibility, and continuing to refine the control editor and interaction experience.",
+      "The dotnet runtime has been upgraded to `v1.0.4`, fixing a range of issues related to input, night mode, texture editing, and page rendering.",
+      "Graphics and memory handling were further improved: this release attempts to ease the 4 GB memory limit on some systems and improves FNA3D rendering performance in extreme scenarios.",
       "For more detail, check announcement"
     ],
     "downloads": {
-      "github": "https://github.com/FireworkSky/RotatingartLauncher/releases/download/v2.0.1/RotatingArtLauncher.2.0.1.apk",
+      "github": "https://github.com/FireworkSky/RotatingartLauncher/releases/download/v2.1.0/RotatingArtLauncher.2.1.0.apk",
       "cloud": "https://laosparrow.lanzouw.com/b0kon7kch"
     },
-    "releasePage": "https://github.com/FireworkSky/RotatingartLauncher/releases/tag/v2.0.1"
+    "releasePage": "https://github.com/FireworkSky/RotatingartLauncher/releases/tag/v2.1.0"
   }
 }
