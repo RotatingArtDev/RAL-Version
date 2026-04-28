@@ -2,20 +2,18 @@
   "schemaVersion": 1,
   "channel": "stable",
   "latest": {
-    "version": "2.1.0",
-    "releaseName": "RotatingArtLauncher v2.1.0",
-    "publishedAt": "2026-04-20T14:57:58Z",
+    "version": "2.1.1",
+    "releaseName": "RotatingArtLauncher v2.1.1",
+    "publishedAt": "2026-04-28T07:44:47Z",
     "description": "Update",
     "changelog": [
-      "Version 2.1.0 mainly focuses on adapting to the new `tModLoader` release, improving runtime compatibility, and continuing to refine the control editor and interaction experience.",
-      "The dotnet runtime has been upgraded to `v10.0.4`, fixing a range of issues related to input, night mode, texture editing, and page rendering.",
-      "Graphics and memory handling were further improved: this release attempts to ease the 4 GB memory limit on some systems and improves FNA3D rendering performance in extreme scenarios.",
+      "Fixed some issues",
       "For more detail, check announcement"
     ],
     "downloads": {
-      "github": "https://github.com/FireworkSky/RotatingartLauncher/releases/download/v2.1.0/RotatingArtLauncher.2.1.0.apk",
+      "github": "https://github.com/FireworkSky/RotatingartLauncher/releases/download/v2.1.1/RotatingArtLauncher.2.1.1.apk",
       "cloud": "https://laosparrow.lanzouw.com/b0kon7kch"
     },
-    "releasePage": "https://github.com/FireworkSky/RotatingartLauncher/releases/tag/v2.1.0"
+    "releasePage": "https://github.com/FireworkSky/RotatingartLauncher/releases/tag/v2.1.1"
   }
 }
